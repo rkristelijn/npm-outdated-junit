@@ -1,0 +1,32 @@
+{
+  "name": "npm-outdated-junit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "bin": {
+    "npm-outdated-xml": "dist/cli.js"
+  },
+  "scripts": {
+    "test:14": "cat tests/node-14.json | node dist/index.js > tests/node-14.xml",
+    "test:20": "cat tests/node-20.json | node dist/index.js > tests/node-20.xml",
+    "test": "concurrently npm:test:*",
+    "debug": "cat tests/node-14.json | node dist/index.js --debug",
+    "build": "tsc",
+    "start": "npm run build && npm run debug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "xmlbuilder2": "^3.1.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "@types/node": "^20.9.0",
+    "concurrently": "^8.2.2",
+    "typescript": "^5.2.2"
+  }
+}

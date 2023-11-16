@@ -1,0 +1,23 @@
+{
+  "@babel/core": {
+    "current": "7.23.2",
+    "wanted": "7.23.3",
+    "latest": "7.23.3",
+    "dependent": "npm-audit-plus-plus",
+    "location": "/node_modules/@babel/core"
+  },
+  "@babel/preset-env": {
+    "current": "7.23.2",
+    "wanted": "7.23.3",
+    "latest": "7.23.3",
+    "dependent": "npm-audit-plus-plus",
+    "location": "/node_modules/@babel/preset-env"
+  },
+  "@types/node": {
+    "current": "20.8.10",
+    "wanted": "20.9.0",
+    "latest": "20.9.0",
+    "dependent": "npm-audit-plus-plus",
+    "location": "/node_modules/@types/node"
+  }
+}

@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="NPM Outdated" errors="0" failures="0">
+    <testcase name="@angular-devkit/build-angular" file="node_modules/@angular-devkit/build-angular">
+      <failure message="@angular-devkit/build-angular is out of date">current: 0.1102.19, wanted: 0.1102.19, latest: 17.0.1, location: node_modules/@angular-devkit/build-angular</failure>
+    </testcase>
+    <testcase name="@angular-eslint/builder" file="node_modules/@angular-eslint/builder">
+      <failure message="@angular-eslint/builder is out of date">current: 4.3.1, wanted: 4.3.1, latest: 17.1.0, location: node_modules/@angular-eslint/builder</failure>
+    </testcase>
+    <testcase name="@angular-eslint/eslint-plugin" file="node_modules/@angular-eslint/eslint-plugin">
+      <failure message="@angular-eslint/eslint-plugin is out of date">current: 4.3.1, wanted: 4.3.1, latest: 17.1.0, location: node_modules/@angular-eslint/eslint-plugin</failure>
+    </testcase>
+    <testcase name="@angular-eslint/eslint-plugin-template" file="node_modules/@angular-eslint/eslint-plugin-template">
+      <failure message="@angular-eslint/eslint-plugin-template is out of date">current: 4.3.1, wanted: 4.3.1, latest: 17.1.0, location: node_modules/@angular-eslint/eslint-plugin-template</failure>
+    </testcase>
+    <testcase name="@angular-eslint/schematics" file="node_modules/@angular-eslint/schematics">
+      <failure message="@angular-eslint/schematics is out of date">current: 4.3.1, wanted: 4.3.1, latest: 17.1.0, location: node_modules/@angular-eslint/schematics</failure>
+    </testcase>
+    <testcase name="@angular-eslint/template-parser" file="node_modules/@angular-eslint/template-parser">
+      <failure message="@angular-eslint/template-parser is out of date">current: 1.2.0, wanted: 1.2.0, latest: 17.1.0, location: node_modules/@angular-eslint/template-parser</failure>
+    </testcase>
+    <testcase name="@angular/animations" file="node_modules/@angular/animations">
+      <failure message="@angular/animations is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/animations</failure>
+    </testcase>
+    <testcase name="@angular/cdk" file="node_modules/@angular/cdk">
+      <failure message="@angular/cdk is out of date">current: 11.2.13, wanted: 11.2.13, latest: 17.0.0, location: node_modules/@angular/cdk</failure>
+    </testcase>
+    <testcase name="@angular/cli" file="node_modules/@angular/cli">
+      <failure message="@angular/cli is out of date">current: 11.2.19, wanted: 11.2.19, latest: 17.0.1, location: node_modules/@angular/cli</failure>
+    </testcase>
+    <testcase name="@angular/common" file="node_modules/@angular/common">
+      <failure message="@angular/common is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/common</failure>
+    </testcase>
+    <testcase name="@angular/compiler" file="node_modules/@angular/compiler">
+      <failure message="@angular/compiler is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/compiler</failure>
+    </testcase>
+    <testcase name="@angular/compiler-cli" file="node_modules/@angular/compiler-cli">
+      <failure message="@angular/compiler-cli is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/compiler-cli</failure>
+    </testcase>
+    <testcase name="@angular/core" file="node_modules/@angular/core">
+      <failure message="@angular/core is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/core</failure>
+    </testcase>
+    <testcase name="@angular/forms" file="node_modules/@angular/forms">
+      <failure message="@angular/forms is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/forms</failure>
+    </testcase>
+    <testcase name="@angular/language-service" file="node_modules/@angular/language-service">
+      <failure message="@angular/language-service is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/language-service</failure>
+    </testcase>
+    <testcase name="@angular/localize" file="node_modules/@angular/localize">
+      <failure message="@angular/localize is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/localize</failure>
+    </testcase>
+    <testcase name="@angular/platform-browser" file="node_modules/@angular/platform-browser">
+      <failure message="@angular/platform-browser is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/platform-browser</failure>
+    </testcase>
+    <testcase name="@angular/platform-browser-dynamic" file="node_modules/@angular/platform-browser-dynamic">
+      <failure message="@angular/platform-browser-dynamic is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/platform-browser-dynamic</failure>
+    </testcase>
+    <testcase name="@angular/router" file="node_modules/@angular/router">
+      <failure message="@angular/router is out of date">current: 11.2.14, wanted: 11.2.14, latest: 17.0.3, location: node_modules/@angular/router</failure>
+    </testcase>
+    <testcase name="@apollo/client" file="node_modules/@apollo/client">
+      <failure message="@apollo/client is out of date">current: 3.6.5, wanted: 3.8.7, latest: 3.8.7, location: node_modules/@apollo/client</failure>
+    </testcase>
+    <testcase name="@aps/cypress-framework" file="node_modules/@aps/cypress-framework">
+      <failure message="@aps/cypress-framework is out of date">current: 0.5.23, wanted: 0.5.23, latest: 0.5.24, location: node_modules/@aps/cypress-framework</failure>
+    </testcase>
+    <testcase name="@babel/core" file="node_modules/@babel/core">
+      <failure message="@babel/core is out of date">current: 7.18.2, wanted: 7.23.3, latest: 7.23.3, location: node_modules/@babel/core</failure>
+    </testcase>
+    <testcase name="@commitlint/config-conventional" file="node_modules/@commitlint/config-conventional">
+      <failure message="@commitlint/config-conventional is out of date">current: 11.0.0, wanted: 11.0.0, latest: 18.4.2, location: node_modules/@commitlint/config-conventional</failure>
+    </testcase>
+    <testcase name="@cypress/webpack-preprocessor" file="node_modules/@cypress/webpack-preprocessor">
+      <failure message="@cypress/webpack-preprocessor is out of date">current: 5.11.1, wanted: 5.17.1, latest: 6.0.0, location: node_modules/@cypress/webpack-preprocessor</failure>
+    </testcase>
+    <testcase name="@ng-bootstrap/ng-bootstrap" file="node_modules/@ng-bootstrap/ng-bootstrap">
+      <failure message="@ng-bootstrap/ng-bootstrap is out of date">current: 9.1.3, wanted: 9.1.3, latest: 15.1.2, location: node_modules/@ng-bootstrap/ng-bootstrap</failure>
+    </testcase>
+    <testcase name="@ngrx/component" file="node_modules/@ngrx/component">
+      <failure message="@ngrx/component is out of date">current: 11.1.1, wanted: 11.1.1, latest: 16.3.0, location: node_modules/@ngrx/component</failure>
+    </testcase>
+    <testcase name="@ngrx/effects" file="node_modules/@ngrx/effects">
+      <failure message="@ngrx/effects is out of date">current: 11.1.1, wanted: 11.1.1, latest: 16.3.0, location: node_modules/@ngrx/effects</failure>
+    </testcase>
+    <testcase name="@ngrx/entity" file="node_modules/@ngrx/entity">
+      <failure message="@ngrx/entity is out of date">current: 11.1.1, wanted: 11.1.1, latest: 16.3.0, location: node_modules/@ngrx/entity</failure>
+    </testcase>
+    <testcase name="@ngrx/schematics" file="node_modules/@ngrx/schematics">
+      <failure message="@ngrx/schematics is out of date">current: 11.1.1, wanted: 11.1.1, latest: 16.3.0, location: node_modules/@ngrx/schematics</failure>
+    </testcase>
+    <testcase name="@ngrx/store" file="node_modules/@ngrx/store">
+      <failure message="@ngrx/store is out of date">current: 11.1.1, wanted: 11.1.1, latest: 16.3.0, location: node_modules/@ngrx/store</failure>
+    </testcase>
+    <testcase name="@ngrx/store-devtools" file="node_modules/@ngrx/store-devtools">
+      <failure message="@ngrx/store-devtools is out of date">current: 11.1.1, wanted: 11.1.1, latest: 16.3.0, location: node_modules/@ngrx/store-devtools</failure>
+    </testcase>
+    <testcase name="@sentry/angular" file="node_modules/@sentry/angular">
+      <failure message="@sentry/angular is out of date">current: 6.19.7, wanted: 6.19.7, latest: 7.80.1, location: node_modules/@sentry/angular</failure>
+    </testcase>
+    <testcase name="@sentry/tracing" file="node_modules/@sentry/tracing">
+      <failure message="@sentry/tracing is out of date">current: 6.19.7, wanted: 6.19.7, latest: 7.80.1, location: node_modules/@sentry/tracing</failure>
+    </testcase>
+    <testcase name="@types/jest" file="node_modules/@types/jest">
+      <failure message="@types/jest is out of date">current: 26.0.24, wanted: 26.0.24, latest: 29.5.8, location: node_modules/@types/jest</failure>
+    </testcase>
+    <testcase name="@types/lodash" file="node_modules/@types/lodash">
+      <failure message="@types/lodash is out of date">current: 4.14.182, wanted: 4.14.201, latest: 4.14.201, location: node_modules/@types/lodash</failure>
+    </testcase>
+    <testcase name="@types/marked" file="node_modules/@types/marked">
+      <failure message="@types/marked is out of date">current: 4.0.3, wanted: 4.3.2, latest: 6.0.0, location: node_modules/@types/marked</failure>
+    </testcase>
+    <testcase name="@types/node" file="node_modules/@types/node">
+      <failure message="@types/node is out of date">current: 14.18.18, wanted: 14.18.63, latest: 20.9.0, location: node_modules/@types/node</failure>
+    </testcase>
+    <testcase name="@types/redis" file="node_modules/@types/redis">
+      <failure message="@types/redis is out of date">current: 2.8.32, wanted: 2.8.32, latest: 4.0.11, location: node_modules/@types/redis</failure>
+    </testcase>
+    <testcase name="@typescript-eslint/eslint-plugin" file="node_modules/@typescript-eslint/eslint-plugin">
+      <failure message="@typescript-eslint/eslint-plugin is out of date">current: 4.16.1, wanted: 4.16.1, latest: 6.11.0, location: node_modules/@typescript-eslint/eslint-plugin</failure>
+    </testcase>
+    <testcase name="@typescript-eslint/parser" file="node_modules/@typescript-eslint/parser">
+      <failure message="@typescript-eslint/parser is out of date">current: 4.16.1, wanted: 4.16.1, latest: 6.11.0, location: node_modules/@typescript-eslint/parser</failure>
+    </testcase>
+    <testcase name="apollo-angular" file="node_modules/apollo-angular">
+      <failure message="apollo-angular is out of date">current: 2.6.0, wanted: 2.6.0, latest: 5.0.2, location: node_modules/apollo-angular</failure>
+    </testcase>
+    <testcase name="axe-core" file="node_modules/axe-core">
+      <failure message="axe-core is out of date">current: 4.4.2, wanted: 4.8.2, latest: 4.8.2, location: node_modules/axe-core</failure>
+    </testcase>
+    <testcase name="babel-loader" file="node_modules/babel-loader">
+      <failure message="babel-loader is out of date">current: 8.2.5, wanted: 8.3.0, latest: 9.1.3, location: node_modules/babel-loader</failure>
+    </testcase>
+    <testcase name="bootstrap" file="node_modules/bootstrap">
+      <failure message="bootstrap is out of date">current: 4.5.0, wanted: 4.5.0, latest: 5.3.2, location: node_modules/bootstrap</failure>
+    </testcase>
+    <testcase name="case-anything" file="node_modules/case-anything">
+      <failure message="case-anything is out of date">current: 2.1.10, wanted: 2.1.13, latest: 2.1.13, location: node_modules/case-anything</failure>
+    </testcase>
+    <testcase name="commitlint" file="node_modules/commitlint">
+      <failure message="commitlint is out of date">current: 9.1.2, wanted: 9.1.2, latest: 18.4.2, location: node_modules/commitlint</failure>
+    </testcase>
+    <testcase name="cross-fetch" file="node_modules/cross-fetch">
+      <failure message="cross-fetch is out of date">current: 3.1.5, wanted: 3.1.8, latest: 4.0.0, location: node_modules/cross-fetch</failure>
+    </testcase>
+    <testcase name="cypress" file="node_modules/cypress">
+      <failure message="cypress is out of date">current: 9.7.0, wanted: 9.7.0, latest: 13.5.1, location: node_modules/cypress</failure>
+    </testcase>
+    <testcase name="cypress-dotenv" file="node_modules/cypress-dotenv">
+      <failure message="cypress-dotenv is out of date">current: 1.2.3, wanted: 1.2.3, latest: 2.0.0, location: node_modules/cypress-dotenv</failure>
+    </testcase>
+    <testcase name="cypress-fail-on-console-error" file="node_modules/cypress-fail-on-console-error">
+      <failure message="cypress-fail-on-console-error is out of date">current: 2.1.4, wanted: 2.1.4, latest: 5.0.3, location: node_modules/cypress-fail-on-console-error</failure>
+    </testcase>
+    <testcase name="cypress-localstorage-commands" file="node_modules/cypress-localstorage-commands">
+      <failure message="cypress-localstorage-commands is out of date">current: 1.7.0, wanted: 1.7.0, latest: 2.2.5, location: node_modules/cypress-localstorage-commands</failure>
+    </testcase>
+    <testcase name="cypress-mochawesome-reporter" file="node_modules/cypress-mochawesome-reporter">
+      <failure message="cypress-mochawesome-reporter is out of date">current: 2.4.0, wanted: 2.4.0, latest: 3.6.1, location: node_modules/cypress-mochawesome-reporter</failure>
+    </testcase>
+    <testcase name="cypress-multi-reporters" file="node_modules/cypress-multi-reporters">
+      <failure message="cypress-multi-reporters is out of date">current: 1.6.0, wanted: 1.6.4, latest: 1.6.4, location: node_modules/cypress-multi-reporters</failure>
+    </testcase>
+    <testcase name="cypress-wait-until" file="node_modules/cypress-wait-until">
+      <failure message="cypress-wait-until is out of date">current: 1.7.2, wanted: 1.7.2, latest: 2.0.1, location: node_modules/cypress-wait-until</failure>
+    </testcase>
+    <testcase name="dayjs" file="node_modules/dayjs">
+      <failure message="dayjs is out of date">current: 1.11.2, wanted: 1.11.10, latest: 1.11.10, location: node_modules/dayjs</failure>
+    </testcase>
+    <testcase name="dotenv" file="node_modules/dotenv">
+      <failure message="dotenv is out of date">current: 8.6.0, wanted: 8.6.0, latest: 16.3.1, location: node_modules/dotenv</failure>
+    </testcase>
+    <testcase name="eslint" file="node_modules/eslint">
+      <failure message="eslint is out of date">current: 7.32.0, wanted: 7.32.0, latest: 8.53.0, location: node_modules/eslint</failure>
+    </testcase>
+    <testcase name="eslint-plugin-import" file="node_modules/eslint-plugin-import">
+      <failure message="eslint-plugin-import is out of date">current: 2.25.4, wanted: 2.25.4, latest: 2.29.0, location: node_modules/eslint-plugin-import</failure>
+    </testcase>
+    <testcase name="eslint-plugin-jsdoc" file="node_modules/eslint-plugin-jsdoc">
+      <failure message="eslint-plugin-jsdoc is out of date">current: 36.1.1, wanted: 36.1.1, latest: 46.9.0, location: node_modules/eslint-plugin-jsdoc</failure>
+    </testcase>
+    <testcase name="graphql" file="node_modules/graphql">
+      <failure message="graphql is out of date">current: 15.8.0, wanted: 15.8.0, latest: 16.8.1, location: node_modules/graphql</failure>
+    </testcase>
+    <testcase name="husky" file="node_modules/husky">
+      <failure message="husky is out of date">current: 4.3.8, wanted: 4.3.8, latest: 8.0.3, location: node_modules/husky</failure>
+    </testcase>
+    <testcase name="jest" file="node_modules/jest">
+      <failure message="jest is out of date">current: 26.6.3, wanted: 26.6.3, latest: 29.7.0, location: node_modules/jest</failure>
+    </testcase>
+    <testcase name="jest-circus" file="node_modules/jest-circus">
+      <failure message="jest-circus is out of date">current: 27.5.1, wanted: 27.5.1, latest: 29.7.0, location: node_modules/jest-circus</failure>
+    </testcase>
+    <testcase name="jest-junit" file="node_modules/jest-junit">
+      <failure message="jest-junit is out of date">current: 12.3.0, wanted: 12.3.0, latest: 16.0.0, location: node_modules/jest-junit</failure>
+    </testcase>
+    <testcase name="jest-preset-angular" file="node_modules/jest-preset-angular">
+      <failure message="jest-preset-angular is out of date">current: 8.4.0, wanted: 8.4.0, latest: 13.1.4, location: node_modules/jest-preset-angular</failure>
+    </testcase>
+    <testcase name="jsonwebtoken" file="node_modules/jsonwebtoken">
+      <failure message="jsonwebtoken is out of date">current: 8.5.1, wanted: 8.5.1, latest: 9.0.2, location: node_modules/jsonwebtoken</failure>
+    </testcase>
+    <testcase name="marked" file="node_modules/marked">
+      <failure message="marked is out of date">current: 4.0.18, wanted: 4.3.0, latest: 10.0.0, location: node_modules/marked</failure>
+    </testcase>
+    <testcase name="mocha-junit-reporter" file="node_modules/mocha-junit-reporter">
+      <failure message="mocha-junit-reporter is out of date">current: 2.0.2, wanted: 2.2.1, latest: 2.2.1, location: node_modules/mocha-junit-reporter</failure>
+    </testcase>
+    <testcase name="ng-mocks" file="node_modules/ng-mocks">
+      <failure message="ng-mocks is out of date">current: 12.5.1, wanted: 12.5.1, latest: 14.11.0, location: node_modules/ng-mocks</failure>
+    </testcase>
+    <testcase name="ngx-skeleton-loader" file="node_modules/ngx-skeleton-loader">
+      <failure message="ngx-skeleton-loader is out of date">current: 3.0.0, wanted: 3.0.0, latest: 8.1.0, location: node_modules/ngx-skeleton-loader</failure>
+    </testcase>
+    <testcase name="ngx-toastr" file="node_modules/ngx-toastr">
+      <failure message="ngx-toastr is out of date">current: 13.2.1, wanted: 13.2.1, latest: 18.0.0, location: node_modules/ngx-toastr</failure>
+    </testcase>
+    <testcase name="npm-audit-plus-plus" file="node_modules/npm-audit-plus-plus">
+      <failure message="npm-audit-plus-plus is out of date">current: 1.0.14, wanted: 1.1.0, latest: 1.1.0, location: node_modules/npm-audit-plus-plus</failure>
+    </testcase>
+    <testcase name="redis" file="node_modules/redis">
+      <failure message="redis is out of date">current: 3.1.2, wanted: 3.1.2, latest: 4.6.10, location: node_modules/redis</failure>
+    </testcase>
+    <testcase name="rfs" file="node_modules/rfs">
+      <failure message="rfs is out of date">current: 9.0.6, wanted: 9.0.6, latest: 10.0.0, location: node_modules/rfs</failure>
+    </testcase>
+    <testcase name="rxjs" file="node_modules/rxjs">
+      <failure message="rxjs is out of date">current: 6.5.5, wanted: 6.5.5, latest: 7.8.1, location: node_modules/rxjs</failure>
+    </testcase>
+    <testcase name="start-server-and-test" file="node_modules/start-server-and-test">
+      <failure message="start-server-and-test is out of date">current: 1.14.0, wanted: 1.15.4, latest: 2.0.2, location: node_modules/start-server-and-test</failure>
+    </testcase>
+    <testcase name="ts-loader" file="node_modules/ts-loader">
+      <failure message="ts-loader is out of date">current: 6.2.2, wanted: 6.2.2, latest: 9.5.1, location: node_modules/ts-loader</failure>
+    </testcase>
+    <testcase name="ts-node" file="node_modules/ts-node">
+      <failure message="ts-node is out of date">current: 8.10.2, wanted: 8.10.2, latest: 10.9.1, location: node_modules/ts-node</failure>
+    </testcase>
+    <testcase name="tslib" file="node_modules/tslib">
+      <failure message="tslib is out of date">current: 2.4.0, wanted: 2.6.2, latest: 2.6.2, location: node_modules/tslib</failure>
+    </testcase>
+    <testcase name="typescript" file="node_modules/typescript">
+      <failure message="typescript is out of date">current: 4.1.6, wanted: 4.1.6, latest: 5.2.2, location: node_modules/typescript</failure>
+    </testcase>
+    <testcase name="webpack" file="node_modules/webpack">
+      <failure message="webpack is out of date">current: 4.46.0, wanted: 4.47.0, latest: 5.89.0, location: node_modules/webpack</failure>
+    </testcase>
+    <testcase name="zone.js" file="node_modules/zone.js">
+      <failure message="zone.js is out of date">current: 0.11.5, wanted: 0.11.8, latest: 0.14.2, location: node_modules/zone.js</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

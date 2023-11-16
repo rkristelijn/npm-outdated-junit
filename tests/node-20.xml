@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="NPM Outdated" errors="0" failures="0">
+    <testcase name="@babel/core" file="/node_modules/@babel/core">
+      <failure message="@babel/core is out of date">current: 7.23.2, wanted: 7.23.3, latest: 7.23.3, location: /node_modules/@babel/coredependent: npm-audit-plus-plus</failure>
+    </testcase>
+    <testcase name="@babel/preset-env" file="/node_modules/@babel/preset-env">
+      <failure message="@babel/preset-env is out of date">current: 7.23.2, wanted: 7.23.3, latest: 7.23.3, location: /node_modules/@babel/preset-envdependent: npm-audit-plus-plus</failure>
+    </testcase>
+    <testcase name="@types/node" file="/node_modules/@types/node">
+      <failure message="@types/node is out of date">current: 20.8.10, wanted: 20.9.0, latest: 20.9.0, location: /node_modules/@types/nodedependent: npm-audit-plus-plus</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
