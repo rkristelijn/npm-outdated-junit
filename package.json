@@ -1,10 +1,10 @@
 {
   "name": "npm-outdated-junit",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "dist/index.js",
   "bin": {
-    "npm-outdated-xml": "dist/index.js"
+    "npm-outdated-junit": "dist/index.js"
   },
   "scripts": {
     "test:14": "cat tests/node-14.json | node dist/index.js > tests/node-14.xml",
