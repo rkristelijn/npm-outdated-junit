@@ -35,8 +35,11 @@ const parseXml = (input: Input): string => {
   const testcase = Object.keys(input).map((key) => {
     const { current, wanted, latest, location, dependent } = input[key];
     return {
-      "@name": key,
+      "@name": `${key} is out of date: current: ${current}, wanted: ${wanted}, latest: ${latest}, location: ${location}${
+        dependent ? "dependent: " + dependent : ""
+      }`,
       "@file": location,
+      "@classname": key + "@" + current,
       failure: {
         "@message": `${key} is out of date`,
         "#text": `current: ${current}, wanted: ${wanted}, latest: ${latest}, location: ${location}${
@@ -65,7 +68,7 @@ const parseXml = (input: Input): string => {
 program
   .name("npm-outdated-xml")
   .description("Convert npm outdated json output to xml")
-  .version("1.0.1");
+  .version("1.1.0");
 
 program
   .description("npm outdated --json | npx npm-outdated-xml")
