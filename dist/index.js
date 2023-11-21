@@ -20,8 +20,9 @@ var parseXml = function (input) {
     var testcase = Object.keys(input).map(function (key) {
         var _a = input[key], current = _a.current, wanted = _a.wanted, latest = _a.latest, location = _a.location, dependent = _a.dependent;
         return {
-            "@name": key,
+            "@name": "".concat(key, " is out of date: current: ").concat(current, ", wanted: ").concat(wanted, ", latest: ").concat(latest, ", location: ").concat(location).concat(dependent ? "dependent: " + dependent : ""),
             "@file": location,
+            "@classname": key + "@" + current,
             failure: {
                 "@message": "".concat(key, " is out of date"),
                 "#text": "current: ".concat(current, ", wanted: ").concat(wanted, ", latest: ").concat(latest, ", location: ").concat(location).concat(dependent ? "dependent: " + dependent : ""),
@@ -46,7 +47,7 @@ var parseXml = function (input) {
 program
     .name("npm-outdated-xml")
     .description("Convert npm outdated json output to xml")
-    .version("0.0.1");
+    .version("1.1.1");
 program
     .description("npm outdated --json | npx npm-outdated-xml")
     .option("--debug, -d", "output extra debugging")

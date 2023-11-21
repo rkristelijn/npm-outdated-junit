@@ -68,7 +68,7 @@ const parseXml = (input: Input): string => {
 program
   .name("npm-outdated-xml")
   .description("Convert npm outdated json output to xml")
-  .version("1.1.0");
+  .version("1.1.1");
 
 program
   .description("npm outdated --json | npx npm-outdated-xml")
